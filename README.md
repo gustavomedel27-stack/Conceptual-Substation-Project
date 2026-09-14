@@ -1,3 +1,4 @@
+<img width="1047" height="679" alt="Screenshot 2026-09-13 at 10 52 48 PM" src="https://github.com/user-attachments/assets/f26a1f2c-72af-4ca1-836b-6c4802c1644d" />
 # Conceptual 69-kV / 12.47-kV Distribution Substation Engineering Design
 Independent engineering portfolio project demonstrating conceptual substation design, electrical calculations, AutoCAD single-line development, protection philosophy, equipment assessment, risk analysis, reliability considerations, preventive maintenance planning, requirements traceability, and structured design QA.
 > **Status:** Conceptual / Portfolio Project  
