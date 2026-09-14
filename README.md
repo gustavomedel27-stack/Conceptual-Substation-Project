@@ -41,3 +41,58 @@ The study uses a 40-MVA, three-phase main transformer to supply a maximum assume
 | 6% | 30.87 kA |
 | 8% | 23.15 kA |
 | 10% | 18.52 kA |
+
+## Project Deliverables
+
+| Deliverable | Description |
+|---|---|
+| Final Engineering Report | Summary of the complete conceptual engineering study |
+| Electrical SLD | Final AutoCAD single-line diagram |
+| Load Calculations | Load, power, operating-current, and transformer-utilization analysis |
+| Short-Circuit Analysis | Preliminary transformer-limited fault-current assessment |
+| Equipment Schedule | Preliminary equipment and duty assessment |
+| Protection Coordination | Conceptual protection philosophy and coordination matrix |
+| Risk & Reliability | FMEA, risk register, and reliability assessment |
+| Preventive Maintenance | Conceptual equipment-maintenance strategy |
+| QA / Design Review | QA checklist, requirements closure, findings, and open items |
+
+## Study Limitations
+
+This project is a conceptual engineering study and does not represent a utility-approved or construction-ready design.
+
+The following items require detailed engineering and site-, utility-, or manufacturer-specific information:
+
+- Utility source impedance, available fault current, and X/R ratio
+- Site soil-resistivity data
+- Detailed grounding-grid analysis
+- Final relay settings and time-current coordination
+- Final breaker interrupting and equipment short-circuit ratings
+- Final CT/PT ratios and classes
+- Final surge-arrester characteristics
+- Detailed station-service load study
+- Utility contingency and reliability criteria
+- Arc-flash analysis
+- Physical, civil, and structural substation design
+
+- ## Tools Used
+
+- **AutoCAD 2027 for Mac** — Electrical single-line diagram development
+- **Microsoft Excel / Google Sheets** — Engineering calculations, FMEA, risk analysis, equipment schedules, requirements tracking, and QA
+- **Microsoft Word / Google Docs** — Engineering documentation and final report development
+
+- ## Repository Structure
+
+```text
+.
+├── README.md
+├── Final_Report/
+│   └── Conceptual_Substation_Engineering_Report.pdf
+├── Electrical_Design/
+│   ├── Conceptual_Substation_Single_Line-SLD.pdf
+│   └── Conceptual_Substation_Single_Line.dwg
+├── Calculations/
+│   ├── Load_Calculations.xlsx
+│   └── Short_Circuit_Analysis.xlsx
+├── Protection_Coordination/
+├── Risk_Reliability_Maintenance/
+└── QA_Design_Review/
